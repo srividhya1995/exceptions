@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	Bike bike1=new Bike(b);
 	brands.add(b);
 	System.out.println(brands);
+	System.out.println("this is my bike details");
 }
 }
 }
